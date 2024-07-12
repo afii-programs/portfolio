@@ -45,6 +45,10 @@ section img.background {
   z-index: -1;
 }
 
+#home{
+  color: white;
+}
+
 h1 {
   font-family: "Cormorant Garamond", serif;
   font-size: 7rem;
@@ -100,6 +104,11 @@ a {
 
 a:hover {
   color: #4e567e;
+  scale: 1.3;
+}
+
+a img:hover {
+  scale: 1.3;
 }
 
 .container {

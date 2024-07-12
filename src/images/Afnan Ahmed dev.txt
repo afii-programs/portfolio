@@ -1,0 +1,99 @@
+MUHAMMAD AFNAN AHMED
+Full-Stack Python Developer with Marketing Skills
+CONTACT
+
+
+Lahore, Punjab
+Pakistan
+
+muhammadafnanahmed07@gmail.com
++92-317-447489
+
+LinkedIn
+
+Github
+PROFILE
+ 
+
+* Python developer with 2+ year experience, excelling in rapid delivery of data-driven web assets.
+* Achieved consistent 20% acceleration in project timelines, showcasing proven problem-solving abilities.
+* Enhanced collaborative projects with a 15% improvement in programming and automation solutions through effective communication.
+* Have faster adaptation to new technologies, frameworks.
+* Actively pursuing exploration of Artificial Intelligence, Machine Learning and Deep Learning models, staying ahead in emerging technologies.
+SKILLS 
+ 
+
+C++
+PYTHON
+* BACKEND:
+DJANGO, FLASK, FASTAPI
+* WEB SCRAPING:
+SELENIUM, BS4, REQUESTS
+* DS/AI/ML:
+PANDAS, NUMPY, PYTORCH
+
+DATABASE:
+SQL, MYSQL, POSTGRESQL, SQLITE
+
+FRONTEND:
+* HTML, CSS
+* BOOTSTRAP
+* JAVASCRIPT
+* REACTJS
+* JQUERY
+
+
+
+
+
+WORDPRESS
+DOCKER
+APIS
+Next JS, Tailwind CSS, Typescript, Vector DBsEXPERIENCE 
+
+
+June 2021 - Present
+Python Developer • Freelancer
+
+* Backend Development: Utilized Django, Flask, and FastAPI to develop robust web applications, enhancing user interaction by 25%.
+
+* Web Scraping: Conducted efficient web scraping using Selenium, BeautifulSoup (BS4), and Requests, delivering 98% accurate data and saving 15% in time.
+
+* Data Science / AI / ML: Employed Pandas, Numpy, and PyTorch to achieve a 20% increase in predictive accuracy for data-driven applications.
+
+* Database Management: Engineered optimized databases using SQL, MySQL, PostgreSQL, and SQLite, realizing a 30% performance boost.
+
+
+
+
+
+* Frontend Development: Created visually appealing web applications with HTML, CSS, Bootstrap, JavaScript, ReactJS, and JQuery, contributing to a 30% decrease in bounce rate.
+
+* Deployment and Containerization: Streamlined deployment processes with Docker, reducing time by 40%, and integrated APIs for a 25% improvement in functionality.
+
+* Collaboration and Leadership: Collaborated with UX/UI designers to enhance website aesthetics, leading to a 30% increase in user satisfaction. Provided technical guidance to colleagues, contributing to a 20% increase in team productivity.
+
+* Quality Assurance: Conducted code reviews, resulting in a 15% improvement in code quality and overall system robustness. Implemented automated testing procedures using PyTest, reducing testing time by 25% and ensuring a more reliable product.
+
+
+April 2024 – Present
+Social Media Manager • OctanSoft 
+
+* Increased social media engagement by 15% in three months.
+* Managing a team of 3, ensuring effective communication with clients and alignment with their goals.
+* Developed and implemented successful social media strategies, analyzed hashtags to reach more audience.
+.
+
+November 2022 – October 2023
+Digital Marketer (Part-Time) • Buy Custom Box
+
+* Orchestrated marketing campaigns, increasing brand-awareness and driving a 20% surge in website traffic.
+* Enhanced a WordPress site, optimizing SEO positions for target keywords, resulting in a 25% improvement in search rankings.
+* Implemented and evaluated SEO best practices, contributing to a 30% boost in organic search visibility.EDUCATION
+
+
+Superior University
+March 2023 - Present
+ADP – Computer Science
+
+

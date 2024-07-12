@@ -7,6 +7,11 @@
 import React from "react";
 
 const Header = () => {
+  const smoothScroll = (e, id) => {
+    e.preventDefault();
+    const element = document.getElementById(id);
+    element.scrollIntoView({ behavior: "smooth" });
+  };
   return (
     <div
       style={{
@@ -21,10 +26,18 @@ const Header = () => {
         zIndex: 10,
       }}
     >
-      <a href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#portfolio">Portfolio</a>
-      <a href="#footer">Contact</a>
+      <a href="#home" onClick={(e) => smoothScroll(e, "home")}>
+        Home
+      </a>
+      <a href="#about" onClick={(e) => smoothScroll(e, "about")}>
+        About
+      </a>
+      <a href="#portfolio" onClick={(e) => smoothScroll(e, "portfolio")}>
+        Portfolio
+      </a>
+      <a href="#footer" onClick={(e) => smoothScroll(e, "footer")}>
+        Contact
+      </a>
     </div>
   );
 };
